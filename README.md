@@ -40,3 +40,11 @@ npm run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+// how element-plus was installed https://element-plus.org/en-US/guide/installation.html#compatibility
+
+//TODO: although cookie is removed automatically after expiration, u remove
+// the third cookie from browser, when removing csrf and laravel_session cookie (important!)
+
+//write the commands for running laravel docker containers and nuxt3 how to open mail from browser(localhost:8025/) how to install and use tableplus dtabase viewer
+// show how to use devtools in browser https://nuxt.com/modules/devtools

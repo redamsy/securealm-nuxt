@@ -5,8 +5,8 @@
         <NuxtLink to="/" class="font-bold">securealm</NuxtLink>
         <ul class="flex gap-4">
           <li><NuxtLink to="/">Home</NuxtLink></li>
-          <li><NuxtLink to="/users">Users</NuxtLink></li>
-          <li><NuxtLink to="/certificates" class="btn">Certificates</NuxtLink></li>
+          <li><NuxtLink to="/usersTable">Users</NuxtLink></li>
+          <li><NuxtLink to="/ruecs" class="btn">Certificates With Users</NuxtLink></li>
         </ul>
       </nav>
     </header>
